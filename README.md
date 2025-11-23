@@ -1,4 +1,3 @@
-# customer-search-api-java
 # Customer Search API (Java / Spring Boot)
 
 ## 概要
